@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/RafaePy/RecipeBlog-Webpage-Project/edit/main/README.md">
+    <a href="https://github.com/RafaePy/Recipe-Blog-Webpage/">
       Solution
     </a>
     <span> | </span>
@@ -89,5 +89,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/rafaepy)
-- Twitter [@your-twitter](https://twitter.com/AbdRaphae)
+- GitHub @rafaepy(https://github.com/rafaepy)
+- Twitter @AbdRaphae(https://twitter.com/AbdRaphae)
